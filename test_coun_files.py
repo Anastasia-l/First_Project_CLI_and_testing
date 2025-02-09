@@ -1,5 +1,5 @@
 import os
-from count.py import counting_files
+from count import counting_files
 import unittest
 from unittest.mock import patch
 
