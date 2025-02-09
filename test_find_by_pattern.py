@@ -3,7 +3,7 @@ import os
 import re
 import tempfile
 import shutil
-from file_manager_project import find_matching_files
+from find_matching import find_matching_files
 
 
 class TestFindMatchingFiles(unittest.TestCase):
