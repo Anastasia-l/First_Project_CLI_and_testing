@@ -1,5 +1,5 @@
 import os
-from file_manager import counting_files
+from file_manager_project import counting_files
 import unittest
 from unittest.mock import patch
 
