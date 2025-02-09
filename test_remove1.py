@@ -1,6 +1,6 @@
 import os
 import unittest
-from file_manager_project import removing
+from remove import removing
 from unittest.mock import patch  # Used to mock user input and print statements
 
 
