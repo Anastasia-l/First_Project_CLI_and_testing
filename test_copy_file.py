@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from file_manager_project import copy_file
+from copy import copy_file
 
 
 class TestCopyFile(unittest.TestCase):
